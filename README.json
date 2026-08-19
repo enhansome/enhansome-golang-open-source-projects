@@ -1,69 +1,9 @@
 {
-  "items": [
-    {
-      "description": "",
-      "items": [],
-      "title": "分类导航"
-    },
-    {
-      "description": "LLM 应用框架、MCP、模型运行时与向量能力",
-      "items": [],
-      "title": "AI / Agent"
-    },
-    {
-      "description": "容器运行时、编排、镜像仓库和集群平台",
-      "items": [],
-      "title": "云原生与容器"
-    },
-    {
-      "description": "PaaS、服务治理、CI/CD、消息与异步任务",
-      "items": [],
-      "title": "服务治理与平台工程"
-    },
-    {
-      "description": "数据库、分布式存储、检索与数据访问生态",
-      "items": [],
-      "title": "数据存储与搜索"
-    },
-    {
-      "description": "指标、图表、告警与运行状态检查",
-      "items": [],
-      "title": "可观测性"
-    },
-    {
-      "description": "网关、负载均衡、代理、流量调试与网络工具",
-      "items": [],
-      "title": "网络与安全"
-    },
-    {
-      "description": "Web 框架、服务端组件与实时交互能力",
-      "items": [],
-      "title": "Web 开发与应用"
-    },
-    {
-      "description": "ML、NLP、爬虫与数据处理",
-      "items": [],
-      "title": "数据处理与机器学习"
-    },
-    {
-      "description": "开发效率、测试、终端 UI 和核心基础库",
-      "items": [],
-      "title": "开发者工具与基础库"
-    },
-    {
-      "description": "仍在维护、影响力最大的 Go 区块链项目",
-      "items": [],
-      "title": "区块链"
-    },
-    {
-      "description": "目录已经去掉旧版 README 中的重复收录、过时仓库和“其它”大杂烩分类。后续如果继续扩展，建议优先更新 projects.json，再运行 同步生成 README。",
-      "items": [],
-      "title": "维护说明"
-    }
-  ],
+  "items": [],
   "metadata": {
-    "last_updated": "2026-08-18T22:33:02.008Z",
+    "last_updated": "2026-08-19T12:32:57.414Z",
     "original_repository": "hackstoic/golang-open-source-projects",
+    "original_repository_id": 64067545,
     "original_repository_sha": "91537ae63b58ef13adcd4f65855cbd3680cc7915",
     "enhanced_repository": "enhansome/enhansome-golang-open-source-projects",
     "enhanced_repository_description": null,
