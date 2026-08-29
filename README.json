@@ -10,12 +10,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+            "homepage": "https://ollama.com",
             "id": 658928958,
             "language": "Go",
-            "last_commit": "2026-08-28T00:03:45Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T00:34:39Z",
+            "open_issues": 3828,
             "owner": "ollama",
             "repo": "ollama",
-            "stars": 179598
+            "stars": 179673,
+            "topics": [
+              "deepseek",
+              "gemma",
+              "gemma3",
+              "glm",
+              "go",
+              "golang",
+              "gpt-oss",
+              "llama",
+              "llama3",
+              "llm",
+              "llms",
+              "minimax",
+              "mistral",
+              "ollama",
+              "qwen"
+            ]
           },
           "first_seen": "2026-08-28T06:03:59.779Z"
         },
@@ -26,12 +47,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LangChain for Go, the easiest way to write LLM-based programs in Go",
+            "homepage": "https://tmc.github.io/langchaingo/",
             "id": 603535454,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-01-11T16:59:56Z",
+            "open_issues": 411,
             "owner": "tmc",
             "repo": "langchaingo",
-            "stars": 9644
+            "stars": 9645,
+            "topics": [
+              "ai",
+              "go",
+              "golang",
+              "langchain"
+            ]
           },
           "first_seen": "2026-08-28T06:03:59.779Z"
         },
@@ -42,12 +73,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The ultimate LLM/AI application development framework in Go.",
+            "homepage": "https://www.cloudwego.io/docs/eino/",
             "id": 898304583,
             "language": "Go",
-            "last_commit": "2026-08-28T04:16:45Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T10:16:53Z",
+            "open_issues": 148,
             "owner": "cloudwego",
             "repo": "eino",
-            "stars": 12857
+            "stars": 12864,
+            "topics": [
+              "ai",
+              "ai-application",
+              "ai-framework",
+              "langchain",
+              "langchain-for-go",
+              "langchaingo",
+              "llm-application"
+            ]
           },
           "first_seen": "2026-08-28T06:03:59.779Z"
         },
@@ -58,12 +102,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.",
+            "homepage": "http://mcp-go.dev/",
             "id": 895029087,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-12T12:29:17Z",
+            "open_issues": 42,
             "owner": "mark3labs",
             "repo": "mcp-go",
-            "stars": 9036
+            "stars": 9036,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:03:59.779Z"
         },
@@ -74,12 +123,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.",
+            "homepage": "https://localai.io",
             "id": 615869301,
             "language": "Go",
-            "last_commit": "2026-08-27T20:32:55Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T23:04:07Z",
+            "open_issues": 222,
             "owner": "mudler",
             "repo": "LocalAI",
-            "stars": 48715
+            "stars": 48727,
+            "topics": [
+              "agents",
+              "ai",
+              "api",
+              "audio-generation",
+              "decentralized",
+              "distributed",
+              "image-generation",
+              "libp2p",
+              "llama",
+              "llm",
+              "mamba",
+              "mcp",
+              "musicgen",
+              "object-detection",
+              "rerank",
+              "stable-diffusion",
+              "text-generation",
+              "tts"
+            ]
           },
           "first_seen": "2026-08-28T06:03:59.779Z"
         },
@@ -90,12 +163,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LocalAGI is a powerful, self-hostable AI Agent platform designed for maximum privacy and flexibility. A complete drop-in replacement for OpenAI's Responses APIs with advanced agentic capabilities. No clouds.  Local AI that works on consumer-grade hardware (CPU and GPU).",
+            "homepage": null,
             "id": 671691886,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-25T17:43:00Z",
+            "open_issues": 86,
             "owner": "mudler",
             "repo": "LocalAGI",
-            "stars": 1963
+            "stars": 1963,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:03:59.779Z"
         },
@@ -106,12 +184,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database​.",
+            "homepage": "https://weaviate.io/developers/weaviate/",
             "id": 55072677,
             "language": "Go",
-            "last_commit": "2026-08-28T04:59:18Z",
+            "license": "BSD-3-Clause",
+            "last_commit": "2026-08-29T00:19:38Z",
+            "open_issues": 691,
             "owner": "weaviate",
             "repo": "weaviate",
-            "stars": 16758
+            "stars": 16759,
+            "topics": [
+              "approximate-nearest-neighbor-search",
+              "generative-search",
+              "grpc",
+              "hnsw",
+              "hybrid-search",
+              "image-search",
+              "information-retrieval",
+              "mlops",
+              "nearest-neighbor-search",
+              "neural-search",
+              "recommender-system",
+              "search-engine",
+              "semantic-search",
+              "semantic-search-engine",
+              "similarity-search",
+              "vector-database",
+              "vector-search",
+              "vector-search-engine",
+              "vectors",
+              "weaviate"
+            ]
           },
           "first_seen": "2026-08-28T06:03:59.779Z"
         },
@@ -122,12 +226,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Self-hosted AI agent harness in a single Go binary — writes, sandbox-tests and repairs its own tools, and lets Claude Code, Codex and any MCP client build and share them.",
+            "homepage": "https://agenvoy.com/",
             "id": 1150205195,
             "language": "Go",
-            "last_commit": "2026-08-28T06:01:05Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T19:45:25Z",
+            "open_issues": 0,
             "owner": "agenvoy",
             "repo": "Agenvoy",
-            "stars": 472
+            "stars": 474,
+            "topics": [
+              "agent-framework",
+              "ai",
+              "ai-agents",
+              "claude",
+              "codex",
+              "deepseek",
+              "gemini",
+              "go",
+              "golang",
+              "grok",
+              "harness",
+              "mcp",
+              "mcp-client",
+              "mcp-server",
+              "multi-agent",
+              "nvidia-nim",
+              "openai",
+              "openrouter",
+              "self-improving"
+            ]
           },
           "first_seen": "2026-08-28T06:03:59.779Z"
         }
@@ -144,12 +273,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+            "homepage": "https://mobyproject.org/",
             "id": 7691631,
             "language": "Go",
-            "last_commit": "2026-08-27T23:57:20Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T20:48:22Z",
+            "open_issues": 3892,
             "owner": "moby",
             "repo": "moby",
-            "stars": 72005
+            "stars": 72011,
+            "topics": [
+              "containers",
+              "docker",
+              "go",
+              "golang"
+            ]
           },
           "first_seen": "2026-08-28T06:03:59.779Z"
         },
@@ -160,12 +299,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Production-Grade Container Scheduling and Management",
+            "homepage": "https://kubernetes.io",
             "id": 20580498,
             "language": "Go",
-            "last_commit": "2026-08-28T02:01:53Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T22:04:04Z",
+            "open_issues": 2978,
             "owner": "kubernetes",
             "repo": "kubernetes",
-            "stars": 125308
+            "stars": 125326,
+            "topics": [
+              "cncf",
+              "containers",
+              "go",
+              "kubernetes"
+            ]
           },
           "first_seen": "2026-08-28T06:03:59.779Z"
         },
@@ -176,12 +325,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An open source trusted cloud native registry project that stores, signs, and scans content.",
+            "homepage": "https://goharbor.io",
             "id": 50613991,
             "language": "Go",
-            "last_commit": "2026-08-27T07:31:52Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T11:16:34Z",
+            "open_issues": 869,
             "owner": "goharbor",
             "repo": "harbor",
-            "stars": 29250
+            "stars": 29253,
+            "topics": [
+              "cloud-native",
+              "cncf",
+              "cncf-project",
+              "container",
+              "container-management",
+              "container-registry",
+              "containers",
+              "docker",
+              "hacktoberfest",
+              "helm",
+              "kubernetes",
+              "registry"
+            ]
           },
           "first_seen": "2026-08-28T06:03:59.779Z"
         },
@@ -192,12 +359,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Complete container management platform",
+            "homepage": "http://rancher.com",
             "id": 26337322,
             "language": "Go",
-            "last_commit": "2026-08-28T04:40:10Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T23:44:17Z",
+            "open_issues": 3341,
             "owner": "rancher",
             "repo": "rancher",
-            "stars": 25876
+            "stars": 25878,
+            "topics": [
+              "cattle",
+              "containers",
+              "docker",
+              "kubernetes",
+              "orchestration",
+              "rancher"
+            ]
           },
           "first_seen": "2026-08-28T06:03:59.779Z"
         },
@@ -208,12 +387,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Vulnerability Static Analysis for Containers",
+            "homepage": "https://quay.github.io/clair/",
             "id": 46140633,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-25T23:03:45Z",
+            "open_issues": 59,
             "owner": "quay",
             "repo": "clair",
-            "stars": 11052
+            "stars": 11053,
+            "topics": [
+              "clair",
+              "containers",
+              "docker",
+              "go",
+              "kubernetes",
+              "oci",
+              "oci-image",
+              "static-analysis",
+              "vulnerabilities"
+            ]
           },
           "first_seen": "2026-08-28T06:03:59.779Z"
         },
@@ -224,12 +418,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A toolkit for orchestrating distributed systems at any scale. It includes primitives for node discovery, raft-based consensus, task scheduling and more.",
+            "homepage": null,
             "id": 51556828,
             "language": "Go",
-            "last_commit": "2026-08-26T18:32:56Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T17:55:25Z",
+            "open_issues": 276,
             "owner": "moby",
             "repo": "swarmkit",
-            "stars": 3647
+            "stars": 3647,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:03:59.779Z"
         },
@@ -240,12 +439,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An Efficient Enterprise-class Container Engine",
+            "homepage": "https://pouchcontainer.io",
             "id": 102555965,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2024-08-22T02:06:07Z",
+            "open_issues": 10,
             "owner": "AliyunContainerService",
             "repo": "pouch",
-            "stars": 4644
+            "stars": 4644,
+            "topics": [
+              "cloud-native",
+              "containers",
+              "efficiency",
+              "go",
+              "isolation",
+              "kubernetes",
+              "oci",
+              "package",
+              "security"
+            ]
           },
           "first_seen": "2026-08-28T06:03:59.779Z"
         },
@@ -256,12 +470,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",
+            "homepage": "https://www.nomadproject.io/",
             "id": 36653430,
             "language": "Go",
-            "last_commit": "2026-08-27T17:21:34Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-28T19:59:12Z",
+            "open_issues": 1638,
             "owner": "hashicorp",
             "repo": "nomad",
-            "stars": 16837
+            "stars": 16841,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:03:59.779Z"
         }
@@ -278,12 +497,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open source and extensible Platform as a Service (PaaS).",
+            "homepage": "https://tsuru.io",
             "id": 3631697,
             "language": "Go",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-25T19:47:57Z",
+            "open_issues": 18,
             "owner": "tsuru",
             "repo": "tsuru",
-            "stars": 5307
+            "stars": 5307,
+            "topics": [
+              "containers",
+              "devops",
+              "docker",
+              "go",
+              "hacktoberfest",
+              "kubernetes",
+              "paas"
+            ]
           },
           "first_seen": "2026-08-28T06:03:59.779Z"
         },
@@ -294,12 +526,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A container platform that needs no Kubernetes learning, Build, deploy, assemble, and manage apps on Kubernetes, no K8s expertise needed, all in a graphical platform.",
+            "homepage": "https://www.rainbond.io",
             "id": 109566657,
             "language": "Go",
-            "last_commit": "2026-08-28T05:58:22Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-28T13:45:20Z",
+            "open_issues": 55,
             "owner": "goodrain",
             "repo": "rainbond",
-            "stars": 6255
+            "stars": 6255,
+            "topics": [
+              "application",
+              "cloud-native",
+              "cloud-native-applications",
+              "continuous-delivery",
+              "devops",
+              "heroku",
+              "hybrid-cloud",
+              "k8s",
+              "kubernetes",
+              "microservice-architecture",
+              "microservice-governance",
+              "multi-cloud",
+              "multi-cluster",
+              "paas",
+              "rainbond",
+              "saas",
+              "service-mesh"
+            ]
           },
           "first_seen": "2026-08-28T06:03:59.779Z"
         },
@@ -310,12 +565,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.",
+            "homepage": "https://www.harness.io/open-source",
             "id": 16607898,
             "language": "Go",
-            "last_commit": "2026-08-27T11:04:39Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T23:12:09Z",
+            "open_issues": 103,
             "owner": "harness",
             "repo": "harness",
-            "stars": 38149
+            "stars": 38156,
+            "topics": [
+              "build-automation",
+              "build-pipelines",
+              "ci",
+              "ci-cd",
+              "code-repository",
+              "continuous-delivery",
+              "continuous-integration",
+              "docker",
+              "git",
+              "go",
+              "hacktoberfest",
+              "scm"
+            ]
           },
           "first_seen": "2026-08-28T06:03:59.779Z"
         },
@@ -326,12 +599,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The easiest, and most secure way to access and protect all of your infrastructure.",
+            "homepage": "https://goteleport.com",
             "id": 31558937,
             "language": "Go",
-            "last_commit": "2026-08-26T22:36:36Z",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-08-28T18:47:24Z",
+            "open_issues": 3331,
             "owner": "gravitational",
             "repo": "teleport",
-            "stars": 20856
+            "stars": 20857,
+            "topics": [
+              "audit",
+              "bastion",
+              "certificate",
+              "cluster",
+              "database-access",
+              "firewall",
+              "firewalls",
+              "go",
+              "golang",
+              "jumpserver",
+              "kubernetes",
+              "kubernetes-access",
+              "pam",
+              "postgres",
+              "rbac",
+              "rdp",
+              "security",
+              "ssh",
+              "teleport",
+              "teleport-binaries"
+            ]
           },
           "first_seen": "2026-08-28T06:03:59.779Z"
         },
@@ -342,12 +641,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Connect, secure, control, and observe services.",
+            "homepage": "https://istio.io",
             "id": 74175805,
             "language": "Go",
-            "last_commit": "2026-08-28T01:18:19Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T23:25:19Z",
+            "open_issues": 515,
             "owner": "istio",
             "repo": "istio",
-            "stars": 38363
+            "stars": 38365,
+            "topics": [
+              "api-management",
+              "circuit-breaker",
+              "consul",
+              "enforce-policies",
+              "envoy",
+              "fault-injection",
+              "kubernetes",
+              "lyft-envoy",
+              "microservice",
+              "microservices",
+              "nomad",
+              "polyglot-microservices",
+              "proxies",
+              "request-routing",
+              "resiliency",
+              "service-mesh"
+            ]
           },
           "first_seen": "2026-08-28T06:03:59.779Z"
         },
@@ -358,12 +679,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Uber fork of CNCF Jaeger, a Distributed Tracing Platform - for Pull Requests",
+            "homepage": "https://www.jaegertracing.io/",
             "id": 663133409,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2023-07-06T16:02:37Z",
+            "open_issues": 0,
             "owner": "uber",
             "repo": "jaeger",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:03:59.779Z"
         },
@@ -374,12 +700,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A standard library for microservices.",
+            "homepage": "https://gokit.io",
             "id": 30215630,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2024-07-19T01:40:06Z",
+            "open_issues": 60,
             "owner": "go-kit",
             "repo": "kit",
-            "stars": 27422
+            "stars": 27422,
+            "topics": [
+              "go",
+              "golang",
+              "metallica",
+              "microservices"
+            ]
           },
           "first_seen": "2026-08-28T06:03:59.779Z"
         },
@@ -390,12 +726,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Design-first Go framework that generates API code, documentation, and clients. Define once in an elegant DSL, deploy as HTTP and gRPC services with zero drift between code and docs.",
+            "homepage": "https://goa.design",
             "id": 27579614,
             "language": "Go",
-            "last_commit": "2026-08-27T03:51:24Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T02:13:58Z",
+            "open_issues": 43,
             "owner": "goadesign",
             "repo": "goa",
-            "stars": 6091
+            "stars": 6091,
+            "topics": [
+              "api",
+              "code-generation",
+              "go",
+              "goa",
+              "golang",
+              "microservices",
+              "openapi",
+              "rest",
+              "swagger"
+            ]
           },
           "first_seen": "2026-08-28T06:03:59.779Z"
         },
@@ -406,12 +757,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols",
+            "homepage": null,
             "id": 19537979,
             "language": "Go",
-            "last_commit": "2026-08-28T01:39:22Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-28T20:20:07Z",
+            "open_issues": 498,
             "owner": "TykTechnologies",
             "repo": "tyk",
-            "stars": 10807
+            "stars": 10810,
+            "topics": [
+              "api",
+              "api-gateway",
+              "api-management",
+              "cloudnative",
+              "go",
+              "graphql",
+              "grpc",
+              "k8s",
+              "kubernetes",
+              "microservices",
+              "reverse-proxy",
+              "tyk"
+            ]
           },
           "first_seen": "2026-08-28T06:03:59.779Z"
         },
@@ -422,12 +791,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Go agent harness and service framework",
+            "homepage": "https://go-micro.dev",
             "id": 29217054,
             "language": "Go",
-            "last_commit": "2026-08-25T06:03:58Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T21:28:26Z",
+            "open_issues": 8,
             "owner": "micro",
             "repo": "go-micro",
-            "stars": 23045
+            "stars": 23047,
+            "topics": [
+              "ai",
+              "ai-agents",
+              "distributed-systems",
+              "go",
+              "golang",
+              "mcp",
+              "micro",
+              "microservices"
+            ]
           },
           "first_seen": "2026-08-28T06:03:59.779Z"
         },
@@ -438,12 +821,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A realtime distributed messaging platform",
+            "homepage": "https://nsq.io",
             "id": 4307108,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-11T18:19:49Z",
+            "open_issues": 77,
             "owner": "nsqio",
             "repo": "nsq",
-            "stars": 25774
+            "stars": 25775,
+            "topics": [
+              "distributed-systems",
+              "go",
+              "message-queue",
+              "messaging",
+              "nsq",
+              "queue"
+            ]
           },
           "first_seen": "2026-08-28T06:03:59.779Z"
         },
@@ -454,12 +849,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Machinery is an asynchronous task queue/job queue based on distributed message passing.",
+            "homepage": null,
             "id": 33452903,
             "language": "Go",
+            "license": "MPL-2.0",
             "last_commit": "2025-11-15T04:07:03Z",
+            "open_issues": 248,
             "owner": "RichardKnop",
             "repo": "machinery",
-            "stars": 7972
+            "stars": 7972,
+            "topics": [
+              "amqp",
+              "aws-sqs",
+              "go",
+              "golang",
+              "memcached",
+              "mongodb",
+              "queue",
+              "rabbitmq",
+              "redis",
+              "task",
+              "task-scheduler"
+            ]
           },
           "first_seen": "2026-08-28T06:03:59.779Z"
         }
@@ -476,12 +888,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement.",
+            "homepage": "https://www.cockroachlabs.com",
             "id": 16563587,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-26T23:11:56Z",
+            "open_issues": 8421,
             "owner": "cockroachdb",
             "repo": "cockroach",
-            "stars": 32428
+            "stars": 32429,
+            "topics": [
+              "cockroachdb",
+              "database",
+              "distributed-database",
+              "go",
+              "hacktoberfest",
+              "sql"
+            ]
           },
           "first_seen": "2026-08-28T06:03:59.779Z"
         },
@@ -492,12 +916,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Vitess is a database clustering system for horizontal scaling of MySQL.",
+            "homepage": "http://vitess.io",
             "id": 11008207,
             "language": "Go",
-            "last_commit": "2026-08-28T00:40:54Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T01:15:04Z",
+            "open_issues": 1092,
             "owner": "vitessio",
             "repo": "vitess",
-            "stars": 21269
+            "stars": 21271,
+            "topics": [
+              "cncf",
+              "database-cluster",
+              "kubernetes",
+              "mysql",
+              "shard",
+              "vitess"
+            ]
           },
           "first_seen": "2026-08-28T06:03:59.779Z"
         },
@@ -508,12 +944,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TiDB is built for agentic workloads that grow unpredictably, with ACID guarantees and native support for transactions, analytics, and vector search. No data silos. No noisy neighbors. No infrastructure ceiling.",
+            "homepage": "https://www.tidb.io/",
             "id": 41986369,
             "language": "Go",
-            "last_commit": "2026-08-28T05:59:04Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T01:13:27Z",
+            "open_issues": 6833,
             "owner": "pingcap",
             "repo": "tidb",
-            "stars": 40476
+            "stars": 40478,
+            "topics": [
+              "agent",
+              "agent-context",
+              "agent-memory",
+              "agentic",
+              "ai",
+              "cloud-native",
+              "database",
+              "distributed-database",
+              "distributed-transactions",
+              "go",
+              "hacktoberfest",
+              "htap",
+              "memory",
+              "mysql",
+              "mysql-compatibility",
+              "scale",
+              "serverless",
+              "sql",
+              "tidb"
+            ]
           },
           "first_seen": "2026-08-28T06:03:59.779Z"
         },
@@ -524,12 +985,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Scalable datastore for metrics, events, and real-time analytics",
+            "homepage": "https://influxdata.com",
             "id": 13124802,
             "language": "Rust",
-            "last_commit": "2026-08-25T20:37:43Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T22:13:13Z",
+            "open_issues": 2157,
             "owner": "influxdata",
             "repo": "influxdb",
-            "stars": 31723
+            "stars": 31726,
+            "topics": [
+              "database",
+              "go",
+              "influxdb",
+              "metrics",
+              "monitoring",
+              "react",
+              "rust",
+              "time-series"
+            ]
           },
           "first_seen": "2026-08-28T06:03:59.779Z"
         },
@@ -540,12 +1015,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "high-performance graph database for real-time use cases",
+            "homepage": "https://dgraph.io",
             "id": 41349039,
             "language": "Go",
-            "last_commit": "2026-08-27T21:21:15Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T22:14:19Z",
+            "open_issues": 96,
             "owner": "dgraph-io",
             "repo": "dgraph",
-            "stars": 21780
+            "stars": 21781,
+            "topics": [
+              "database",
+              "distributed",
+              "go",
+              "knowledge-graph"
+            ]
           },
           "first_seen": "2026-08-28T06:03:59.779Z"
         },
@@ -556,12 +1041,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "IPFS implementation in Go: a daemon that stores and serves content-addressed data, with a CLI, HTTP Gateway, and RPC API",
+            "homepage": "https://docs.ipfs.tech/how-to/command-line-quick-start/",
             "id": 21233191,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T19:42:52Z",
+            "open_issues": 874,
             "owner": "ipfs",
             "repo": "kubo",
-            "stars": 17115
+            "stars": 17115,
+            "topics": [
+              "ipfs"
+            ]
           },
           "first_seen": "2026-08-28T06:03:59.779Z"
         },
@@ -572,12 +1064,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding. Enterprise version is at seaweedfs.com.",
+            "homepage": "https://seaweedfs.com",
             "id": 1128557039,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-21T07:44:51Z",
+            "open_issues": 1,
             "owner": "chrislusf",
             "repo": "seaweedfs",
-            "stars": 37
+            "stars": 37,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:03:59.779Z"
         },
@@ -588,12 +1085,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Gaea is a mysql proxy, it's developed by xiaomi b2c-dev team.",
+            "homepage": null,
             "id": 187998161,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-03-18T20:52:48Z",
+            "open_issues": 67,
             "owner": "XiaoMi",
             "repo": "Gaea",
-            "stars": 2765
+            "stars": 2765,
+            "topics": [
+              "database",
+              "middleware"
+            ]
           },
           "first_seen": "2026-08-28T06:03:59.779Z"
         },
@@ -604,12 +1109,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Redis client for Go",
+            "homepage": null,
             "id": 96634299,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-05-13T17:31:19Z",
+            "open_issues": 6,
             "owner": "mediocregopher",
             "repo": "radix",
-            "stars": 637
+            "stars": 637,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:03:59.779Z"
         },
@@ -620,12 +1130,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Deprecated: Use the official Elasticsearch client for Go at https://github.com/elastic/go-elasticsearch",
+            "homepage": "https://olivere.github.io/elastic/",
             "id": 7039626,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2024-08-08T07:48:39Z",
+            "open_issues": 116,
             "owner": "olivere",
             "repo": "elastic",
-            "stars": 7447
+            "stars": 7447,
+            "topics": [
+              "elasticsearch",
+              "go"
+            ]
           },
           "first_seen": "2026-08-28T06:03:59.779Z"
         }
@@ -642,12 +1160,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. ",
+            "homepage": "https://grafana.com",
             "id": 15111821,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T06:00:06Z",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-08-29T02:59:04Z",
+            "open_issues": 3317,
             "owner": "grafana",
             "repo": "grafana",
-            "stars": 76459
+            "stars": 76465,
+            "topics": [
+              "alerting",
+              "analytics",
+              "business-intelligence",
+              "dashboard",
+              "data-visualization",
+              "elasticsearch",
+              "go",
+              "grafana",
+              "hacktoberfest",
+              "influxdb",
+              "metrics",
+              "monitoring",
+              "mysql",
+              "postgres",
+              "prometheus"
+            ]
           },
           "first_seen": "2026-08-28T06:03:59.779Z"
         },
@@ -658,12 +1197,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Prometheus monitoring system and time series database.",
+            "homepage": "https://prometheus.io/",
             "id": 6838921,
             "language": "Go",
-            "last_commit": "2026-08-28T01:05:38Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T16:51:00Z",
+            "open_issues": 879,
             "owner": "prometheus",
             "repo": "prometheus",
-            "stars": 65869
+            "stars": 65878,
+            "topics": [
+              "alerting",
+              "graphing",
+              "hacktoberfest",
+              "metrics",
+              "monitoring",
+              "prometheus",
+              "time-series"
+            ]
           },
           "first_seen": "2026-08-28T06:03:59.779Z"
         },
@@ -674,12 +1226,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open source framework for processing, monitoring, and alerting on time series data",
+            "homepage": null,
             "id": 41681600,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-10T15:38:52Z",
+            "open_issues": 833,
             "owner": "influxdata",
             "repo": "kapacitor",
-            "stars": 2375
+            "stars": 2375,
+            "topics": [
+              "kapacitor",
+              "monitoring",
+              "time-series"
+            ]
           },
           "first_seen": "2026-08-28T06:03:59.779Z"
         },
@@ -690,12 +1251,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Distributed, lock-free, self-hosted health checks and status pages",
+            "homepage": "https://sourcegraph.github.io/checkup",
             "id": 56108598,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-07-03T18:37:42Z",
+            "open_issues": 29,
             "owner": "sourcegraph",
             "repo": "checkup",
-            "stars": 3458
+            "stars": 3458,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:03:59.779Z"
         },
@@ -706,12 +1272,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "rtop is an interactive, remote system monitoring tool based on SSH",
+            "homepage": null,
             "id": 35326040,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2022-06-06T14:35:54Z",
+            "open_issues": 23,
             "owner": "rapidloop",
             "repo": "rtop",
-            "stars": 2187
+            "stars": 2187,
+            "topics": [
+              "cli",
+              "monitoring",
+              "ssh"
+            ]
           },
           "first_seen": "2026-08-28T06:03:59.779Z"
         },
@@ -722,12 +1297,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "World's first fully integrated and fully Automated Kubernetes management and orchestration solution",
+            "homepage": "https://console.kubestellar.io",
             "id": 1135473716,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T05:41:22Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T03:37:00Z",
+            "open_issues": 20,
             "owner": "kubestellar",
             "repo": "console",
-            "stars": 129
+            "stars": 129,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:03:59.779Z"
         }
@@ -744,12 +1324,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Cloud Native Application Proxy",
+            "homepage": "https://traefik.io",
             "id": 42408804,
             "language": "Go",
-            "last_commit": "2026-08-27T14:52:06Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T16:14:06Z",
+            "open_issues": 914,
             "owner": "traefik",
             "repo": "traefik",
-            "stars": 64623
+            "stars": 64639,
+            "topics": [
+              "consul",
+              "docker",
+              "etcd",
+              "go",
+              "golang",
+              "kubernetes",
+              "letsencrypt",
+              "load-balancer",
+              "marathon",
+              "mesos",
+              "microservice",
+              "reverse-proxy",
+              "traefik",
+              "zookeeper"
+            ]
           },
           "first_seen": "2026-08-28T06:03:59.779Z"
         },
@@ -760,12 +1360,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Seesaw v2 is a Linux Virtual Server (LVS) based load balancing platform.",
+            "homepage": null,
             "id": 47389445,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-11T10:05:23Z",
+            "open_issues": 16,
             "owner": "google",
             "repo": "seesaw",
-            "stars": 5676
+            "stars": 5676,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:03:59.779Z"
         },
@@ -776,12 +1381,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A small TCP proxy written in Go",
+            "homepage": null,
             "id": 24621562,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2024-01-08T22:13:21Z",
+            "open_issues": 14,
             "owner": "jpillora",
             "repo": "go-tcp-proxy",
-            "stars": 798
+            "stars": 798,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:03:59.779Z"
         },
@@ -792,12 +1402,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes.",
+            "homepage": "https://goreplay.org",
             "id": 10379607,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2026-01-27T15:26:22Z",
+            "open_issues": 341,
             "owner": "probelabs",
             "repo": "goreplay",
-            "stars": 19318
+            "stars": 19319,
+            "topics": [
+              "devops",
+              "go",
+              "qa",
+              "testing",
+              "testing-tools"
+            ]
           },
           "first_seen": "2026-08-28T06:03:59.779Z"
         },
@@ -808,12 +1429,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "HTTP protocol  analysis tool",
+            "homepage": "http://hidu.github.io/pproxy/",
             "id": 19662166,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2024-12-20T04:47:25Z",
+            "open_issues": 7,
             "owner": "hidu",
             "repo": "pproxy",
-            "stars": 277
+            "stars": 277,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:03:59.779Z"
         },
@@ -824,12 +1450,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source VPN for speed, privacy, and censorship circumvention. Free to download on Android, iOS, Windows, macOS, and Linux.",
+            "homepage": null,
             "id": 1380117,
             "language": "Dart",
-            "last_commit": "2026-08-27T19:38:07Z",
+            "license": "GPL-3.0",
+            "last_commit": "2026-08-28T20:09:58Z",
+            "open_issues": 40,
             "owner": "getlantern",
             "repo": "lantern",
-            "stars": 15916
+            "stars": 15917,
+            "topics": [
+              "accelerator",
+              "censorship",
+              "circumvention",
+              "gfw",
+              "lantern",
+              "router",
+              "vpn"
+            ]
           },
           "first_seen": "2026-08-28T06:03:59.779Z"
         }
@@ -846,12 +1485,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.",
+            "homepage": "https://gin-gonic.com/",
             "id": 20904437,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-15T05:44:19Z",
+            "open_issues": 765,
             "owner": "gin-gonic",
             "repo": "gin",
-            "stars": 89125
+            "stars": 89129,
+            "topics": [
+              "framework",
+              "gin",
+              "go",
+              "middleware",
+              "performance",
+              "router",
+              "server"
+            ]
           },
           "first_seen": "2026-08-28T06:03:59.779Z"
         },
@@ -862,12 +1514,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "High performance, minimalist Go web framework",
+            "homepage": "https://echo.labstack.com",
             "id": 31504491,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-24T09:10:55Z",
+            "open_issues": 28,
             "owner": "labstack",
             "repo": "echo",
-            "stars": 32667
+            "stars": 32669,
+            "topics": [
+              "echo",
+              "go",
+              "http2",
+              "https",
+              "labstack-echo",
+              "letsencrypt",
+              "micro-framework",
+              "microservice",
+              "middleware",
+              "ssl",
+              "web",
+              "web-framework",
+              "websocket"
+            ]
           },
           "first_seen": "2026-08-28T06:03:59.779Z"
         },
@@ -878,12 +1549,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "beego is an open-source, high-performance web framework for the Go programming language.",
+            "homepage": null,
             "id": 3577919,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-26T02:02:44Z",
+            "open_issues": 21,
             "owner": "beego",
             "repo": "beego",
-            "stars": 32416
+            "stars": 32415,
+            "topics": [
+              "beego",
+              "go"
+            ]
           },
           "first_seen": "2026-08-28T06:03:59.779Z"
         },
@@ -894,12 +1573,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A high productivity, full-stack web framework for the Go language.",
+            "homepage": "http://revel.github.io",
             "id": 2945088,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2023-10-28T20:48:11Z",
+            "open_issues": 94,
             "owner": "revel",
             "repo": "revel",
-            "stars": 13219
+            "stars": 13218,
+            "topics": [
+              "hacktoberfest",
+              "revel",
+              "web-application",
+              "web-application-framework",
+              "web-framework"
+            ]
           },
           "first_seen": "2026-08-28T06:03:59.779Z"
         },
@@ -910,12 +1600,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The fastest HTTP/2 Go Web Framework. New, modern and easy to learn. Fast development with Code you control. Unbeatable cost-performance ratio :rocket:",
+            "homepage": "https://www.iris-go.com",
             "id": 50709152,
             "language": "Go",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-07-27T09:34:12Z",
+            "open_issues": 149,
             "owner": "kataras",
             "repo": "iris",
-            "stars": 25558
+            "stars": 25558,
+            "topics": [
+              "dependency-injection",
+              "go",
+              "golang",
+              "http2",
+              "iris",
+              "mvc",
+              "sessions",
+              "web-framework",
+              "websocket"
+            ]
           },
           "first_seen": "2026-08-28T06:03:59.779Z"
         },
@@ -926,12 +1631,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Package macaron is a high productive and modular web framework in Go.",
+            "homepage": "https://go-macaron.com",
             "id": 21677533,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-02-16T00:42:27Z",
+            "open_issues": 12,
             "owner": "go-macaron",
             "repo": "macaron",
-            "stars": 3545
+            "stars": 3545,
+            "topics": [
+              "go",
+              "macaron",
+              "web-framework"
+            ]
           },
           "first_seen": "2026-08-28T06:03:59.779Z"
         },
@@ -942,12 +1656,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Faygo is a fast and concise Go Web framework that can be used to develop high-performance web app(especially API) with fewer codes. Just define a struct handler, faygo will automatically bind/verify the request parameters and generate the online API doc.",
+            "homepage": "https://github.com/henrylee2cn/faydoc",
             "id": 49730375,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2023-02-25T01:08:06Z",
+            "open_issues": 9,
             "owner": "andeya",
             "repo": "faygo",
-            "stars": 1591
+            "stars": 1591,
+            "topics": [
+              "auto-api-doc",
+              "golang",
+              "hot-update",
+              "http2",
+              "http2-push",
+              "httprouter",
+              "middleware",
+              "parameter-binding",
+              "server",
+              "server-push",
+              "shutdown-reboot-gracefully",
+              "swagger",
+              "web-framework"
+            ]
           },
           "first_seen": "2026-08-28T06:03:59.779Z"
         },
@@ -958,12 +1691,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":notes: Minimalist websocket framework for Go",
+            "homepage": null,
             "id": 35573029,
             "language": "Go",
+            "license": "BSD-2-Clause",
             "last_commit": "2025-10-28T18:41:28Z",
+            "open_issues": 14,
             "owner": "olahol",
             "repo": "melody",
-            "stars": 4083
+            "stars": 4083,
+            "topics": [
+              "example",
+              "framework",
+              "go",
+              "golang",
+              "minimalist",
+              "websocket",
+              "websocket-framework"
+            ]
           },
           "first_seen": "2026-08-28T06:03:59.779Z"
         },
@@ -974,12 +1720,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http",
+            "homepage": null,
             "id": 44498957,
             "language": "Go",
-            "last_commit": "2026-08-17T06:40:36Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T20:06:25Z",
+            "open_issues": 85,
             "owner": "valyala",
             "repo": "fasthttp",
-            "stars": 23455
+            "stars": 23456,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:03:59.779Z"
         },
@@ -990,12 +1741,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Reference server implementation in Go of tus: the open protocol for resumable file uploads",
+            "homepage": "https://tus.github.io/tusd",
             "id": 8825137,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-01T00:16:23Z",
+            "open_issues": 90,
             "owner": "tus",
             "repo": "tusd",
-            "stars": 3860
+            "stars": 3861,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:03:59.779Z"
         },
@@ -1006,12 +1762,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..",
+            "homepage": "https://mattermost.com",
             "id": 37448451,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T05:59:01Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T02:05:43Z",
+            "open_issues": 997,
             "owner": "mattermost",
             "repo": "mattermost",
-            "stars": 38928
+            "stars": 38935,
+            "topics": [
+              "collaboration",
+              "golang",
+              "hacktoberfest",
+              "mattermost",
+              "monorepo",
+              "react",
+              "react-native"
+            ]
           },
           "first_seen": "2026-08-28T06:03:59.779Z"
         }
@@ -1028,12 +1797,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Gorgonia is a library that helps facilitate machine learning in Go.",
+            "homepage": "https://gorgonia.org/",
             "id": 68251076,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2024-08-12T04:53:17Z",
+            "open_issues": 126,
             "owner": "gorgonia",
             "repo": "gorgonia",
-            "stars": 5929
+            "stars": 5930,
+            "topics": [
+              "artificial-intelligence",
+              "automatic-differentiation",
+              "computation-graph",
+              "deep-learning",
+              "deep-neural-networks",
+              "deeplearning",
+              "differentiation",
+              "go",
+              "golang",
+              "gorgonia",
+              "gradient-descent",
+              "graph-computation",
+              "hacktoberfest",
+              "machine-learning",
+              "neural-network",
+              "symbolic-differentiation"
+            ]
           },
           "first_seen": "2026-08-28T06:03:59.779Z"
         },
@@ -1044,12 +1835,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "On-line Machine Learning in Go (and so much more)",
+            "homepage": null,
             "id": 38148874,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2022-07-15T00:13:54Z",
+            "open_issues": 4,
             "owner": "cdipaolo",
             "repo": "goml",
-            "stars": 1614
+            "stars": 1614,
+            "topics": [
+              "machine-learning"
+            ]
           },
           "first_seen": "2026-08-28T06:03:59.779Z"
         },
@@ -1060,12 +1858,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Machine Learning for Go",
+            "homepage": null,
             "id": 15452925,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2024-01-15T13:55:44Z",
+            "open_issues": 89,
             "owner": "sjwhitworth",
             "repo": "golearn",
-            "stars": 9439
+            "stars": 9439,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:03:59.779Z"
         },
@@ -1076,12 +1879,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pholcus is a distributed high-concurrency crawler software written in pure golang",
+            "homepage": null,
             "id": 38499784,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-24T03:24:17Z",
+            "open_issues": 3,
             "owner": "andeya",
             "repo": "pholcus",
-            "stars": 7577
+            "stars": 7577,
+            "topics": [
+              "crowler",
+              "spider"
+            ]
           },
           "first_seen": "2026-08-28T06:03:59.779Z"
         },
@@ -1092,12 +1903,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "\"结巴\"中文分词的Golang版本",
+            "homepage": null,
             "id": 42340004,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-07-20T08:04:43Z",
+            "open_issues": 0,
             "owner": "yanyiwu",
             "repo": "gojieba",
-            "stars": 2646
+            "stars": 2646,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:03:59.779Z"
         },
@@ -1108,12 +1924,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fast, efficient, and scalable distributed map/reduce system, DAG execution, in memory or on disk, written in pure Go, runs standalone or distributedly.",
+            "homepage": null,
             "id": 66631967,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-25T02:20:34Z",
+            "open_issues": 39,
             "owner": "chrislusf",
             "repo": "gleam",
-            "stars": 3562
+            "stars": 3562,
+            "topics": [
+              "distributed-computing",
+              "distributed-systems",
+              "golang",
+              "map-reduce"
+            ]
           },
           "first_seen": "2026-08-28T06:03:59.779Z"
         }
@@ -1130,12 +1956,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The world’s fastest framework for building websites.",
+            "homepage": "https://gohugo.io",
             "id": 11180687,
             "language": "Go",
-            "last_commit": "2026-08-27T15:00:57Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T11:03:10Z",
+            "open_issues": 245,
             "owner": "gohugoio",
             "repo": "hugo",
-            "stars": 89560
+            "stars": 89572,
+            "topics": [
+              "blog-engine",
+              "cms",
+              "content-management-system",
+              "documentation-tool",
+              "go",
+              "hugo",
+              "static-site-generator"
+            ]
           },
           "first_seen": "2026-08-28T06:03:59.779Z"
         },
@@ -1146,12 +1985,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Go language implementation of gRPC. HTTP/2 based RPC",
+            "homepage": "https://grpc.io",
             "id": 27729907,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T13:16:15Z",
+            "open_issues": 131,
             "owner": "grpc",
             "repo": "grpc-go",
-            "stars": 23041
+            "stars": 23041,
+            "topics": [
+              "dogs-over-cats",
+              "giant-robots",
+              "go",
+              "golang",
+              "grpc",
+              "hacktoberfest",
+              "microservices",
+              "not-nanoservices",
+              "proto",
+              "rpc"
+            ]
           },
           "first_seen": "2026-08-28T06:03:59.779Z"
         },
@@ -1162,12 +2017,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "HTTP load generator, ApacheBench (ab) replacement",
+            "homepage": null,
             "id": 67213524,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-01-10T20:54:51Z",
+            "open_issues": 189,
             "owner": "rakyll",
             "repo": "hey",
-            "stars": 20243
+            "stars": 20246,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:03:59.779Z"
         },
@@ -1178,12 +2038,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LiteIDE is a simple, open source, cross-platform Go IDE. ",
+            "homepage": null,
             "id": 6753728,
             "language": "C++",
+            "license": "LGPL-2.1",
             "last_commit": "2026-08-15T06:01:50Z",
+            "open_issues": 413,
             "owner": "visualfc",
             "repo": "liteide",
-            "stars": 7767
+            "stars": 7767,
+            "topics": [
+              "cross-platform",
+              "go",
+              "golang",
+              "ide",
+              "liteide",
+              "qt"
+            ]
           },
           "first_seen": "2026-08-28T06:03:59.779Z"
         },
@@ -1194,12 +2066,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Local, web-based mail server application. Slurp mails into oblivion!",
+            "homepage": null,
             "id": 26871979,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-12-05T02:32:11Z",
+            "open_issues": 66,
             "owner": "mailslurper",
             "repo": "mailslurper",
-            "stars": 1510
+            "stars": 1511,
+            "topics": [
+              "bootstrap",
+              "development-tools",
+              "go",
+              "javascript",
+              "mail",
+              "mailserver",
+              "mailslurper",
+              "smtp",
+              "smtp-server"
+            ]
           },
           "first_seen": "2026-08-28T06:03:59.779Z"
         },
@@ -1210,12 +2097,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Golang terminal dashboard",
+            "homepage": null,
             "id": 30245748,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2025-07-10T06:33:40Z",
+            "open_issues": 106,
             "owner": "gizak",
             "repo": "termui",
-            "stars": 13582
+            "stars": 13582,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:03:59.779Z"
         },
@@ -1226,12 +2118,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[mirror] Go on Mobile",
+            "homepage": "https://golang.org/x/mobile",
             "id": 27522259,
             "language": "Go",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-21T19:07:23Z",
+            "open_issues": 37,
             "owner": "golang",
             "repo": "mobile",
-            "stars": 6210
+            "stars": 6211,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:03:59.779Z"
         },
@@ -1242,12 +2139,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lightning fast code searching made easy",
+            "homepage": null,
             "id": 28930512,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-13T01:22:30Z",
+            "open_issues": 118,
             "owner": "hound-search",
             "repo": "hound",
-            "stars": 5875
+            "stars": 5875,
+            "topics": [
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T06:03:59.779Z"
         }
@@ -1264,12 +2168,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Go implementation of the Ethereum protocol",
+            "homepage": "https://geth.ethereum.org",
             "id": 15452919,
             "language": "Go",
-            "last_commit": "2026-08-28T02:21:43Z",
+            "license": "LGPL-3.0",
+            "last_commit": "2026-08-28T15:12:14Z",
+            "open_issues": 423,
             "owner": "ethereum",
             "repo": "go-ethereum",
-            "stars": 51314
+            "stars": 51313,
+            "topics": [
+              "blockchain",
+              "ethereum",
+              "geth",
+              "go",
+              "p2p"
+            ]
           },
           "first_seen": "2026-08-28T06:03:59.779Z"
         },
@@ -1280,12 +2195,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use cases. It offers a unique approach to consensus that enables performance at scale while preserving privacy.",
+            "homepage": "https://lf-hyperledger.atlassian.net/wiki/spaces/fabric",
             "id": 66573241,
             "language": "Go",
-            "last_commit": "2026-08-27T16:43:42Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T20:52:57Z",
+            "open_issues": 205,
             "owner": "hyperledger",
             "repo": "fabric",
-            "stars": 16705
+            "stars": 16706,
+            "topics": [
+              "blockchain",
+              "confidentiality",
+              "consensus",
+              "distributed-ledger",
+              "fabric",
+              "hyperledger"
+            ]
           },
           "first_seen": "2026-08-28T06:03:59.779Z"
         }
@@ -1294,15 +2221,23 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T06:03:59.779Z",
+    "last_updated": "2026-08-29T03:38:37.178Z",
     "original_repository_info": {
       "archived": false,
+      "description": "为互联网IT人打造的中文版awesome-go",
+      "homepage": null,
       "id": 64067545,
       "language": "Go",
+      "license": null,
       "last_commit": "2026-05-31T08:41:05Z",
+      "open_issues": 31,
       "owner": "hackstoic",
       "repo": "golang-open-source-projects",
-      "stars": 11556
+      "stars": 11557,
+      "topics": [
+        "awesome",
+        "golang"
+      ]
     },
     "original_repository_sha": "91537ae63b58ef13adcd4f65855cbd3680cc7915",
     "enhanced_repository": "enhansome/enhansome-golang-open-source-projects",
