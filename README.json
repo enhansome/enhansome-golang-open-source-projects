@@ -15,11 +15,11 @@
             "id": 658928958,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-08-29T00:34:39Z",
+            "last_commit": "2026-08-29T03:47:58Z",
             "open_issues": 3828,
             "owner": "ollama",
             "repo": "ollama",
-            "stars": 179673,
+            "stars": 179674,
             "topics": [
               "deepseek",
               "gemma",
@@ -308,7 +308,7 @@
             "open_issues": 2978,
             "owner": "kubernetes",
             "repo": "kubernetes",
-            "stars": 125326,
+            "stars": 125327,
             "topics": [
               "cncf",
               "containers",
@@ -574,7 +574,7 @@
             "open_issues": 103,
             "owner": "harness",
             "repo": "harness",
-            "stars": 38156,
+            "stars": 38157,
             "topics": [
               "build-automation",
               "build-pipelines",
@@ -894,7 +894,7 @@
             "language": "Go",
             "license": "NOASSERTION",
             "last_commit": "2026-08-26T23:11:56Z",
-            "open_issues": 8421,
+            "open_issues": 8418,
             "owner": "cockroachdb",
             "repo": "cockroach",
             "stars": 32429,
@@ -949,7 +949,7 @@
             "id": 41986369,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-29T01:13:27Z",
+            "last_commit": "2026-08-29T03:40:03Z",
             "open_issues": 6833,
             "owner": "pingcap",
             "repo": "tidb",
@@ -1302,8 +1302,8 @@
             "id": 1135473716,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-29T03:37:00Z",
-            "open_issues": 20,
+            "last_commit": "2026-08-29T04:07:20Z",
+            "open_issues": 16,
             "owner": "kubestellar",
             "repo": "console",
             "stars": 129,
@@ -1771,7 +1771,7 @@
             "open_issues": 997,
             "owner": "mattermost",
             "repo": "mattermost",
-            "stars": 38935,
+            "stars": 38936,
             "topics": [
               "collaboration",
               "golang",
@@ -2177,7 +2177,7 @@
             "open_issues": 423,
             "owner": "ethereum",
             "repo": "go-ethereum",
-            "stars": 51313,
+            "stars": 51314,
             "topics": [
               "blockchain",
               "ethereum",
@@ -2221,7 +2221,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T03:38:37.178Z",
+    "last_updated": "2026-08-29T04:15:47.739Z",
     "original_repository_info": {
       "archived": false,
       "description": "为互联网IT人打造的中文版awesome-go",

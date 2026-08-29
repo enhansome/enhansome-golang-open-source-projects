@@ -43,7 +43,7 @@ LLM 应用框架、MCP、模型运行时与向量能力
 
 | 项目                                                                                                     | 简介                                                |
 | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------- |
-| [ollama/ollama](https://github.com/ollama/ollama) ⭐ 179,673 \| 🐛 3,828 \| 🌐 Go \| 📅 2026-08-29      | 本地运行、分发和管理大模型的 Go 运行时。                            |
+| [ollama/ollama](https://github.com/ollama/ollama) ⭐ 179,674 \| 🐛 3,828 \| 🌐 Go \| 📅 2026-08-29      | 本地运行、分发和管理大模型的 Go 运行时。                            |
 | [tmc/langchaingo](https://github.com/tmc/langchaingo) ⭐ 9,645 \| 🐛 411 \| 🌐 Go \| 📅 2026-01-11      | Go 版 LLM 应用框架，覆盖 prompt、tool calling、agent 和 RAG。 |
 | [cloudwego/eino](https://github.com/cloudwego/eino) ⭐ 12,864 \| 🐛 148 \| 🌐 Go \| 📅 2026-08-28       | CloudWeGo 出品的 Go AI 应用框架，强调组件化编排和生产落地。            |
 | [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) ⭐ 9,036 \| 🐛 42 \| 🌐 Go \| 📅 2026-08-12     | 用 Go 构建 MCP client 和 server 的实用 SDK。              |
@@ -59,7 +59,7 @@ LLM 应用框架、MCP、模型运行时与向量能力
 | 项目                                                                                                                         | 简介                                 |
 | -------------------------------------------------------------------------------------------------------------------------- | ---------------------------------- |
 | [moby/moby](https://github.com/moby/moby) ⭐ 72,011 \| 🐛 3,892 \| 🌐 Go \| 📅 2026-08-28                                   | Docker 引擎的上游项目，也是学习容器运行时实现的核心入口。   |
-| [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ⭐ 125,326 \| 🐛 2,978 \| 🌐 Go \| 📅 2026-08-28          | 事实标准级的容器编排平台。                      |
+| [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ⭐ 125,327 \| 🐛 2,978 \| 🌐 Go \| 📅 2026-08-28          | 事实标准级的容器编排平台。                      |
 | [goharbor/harbor](https://github.com/goharbor/harbor) ⭐ 29,253 \| 🐛 869 \| 🌐 Go \| 📅 2026-08-28                         | 企业级 OCI 镜像仓库，带权限、审计和复制能力。          |
 | [rancher/rancher](https://github.com/rancher/rancher) ⭐ 25,878 \| 🐛 3,341 \| 🌐 Go \| 📅 2026-08-28                       | 面向多集群场景的 Kubernetes 管理平台。          |
 | [quay/clair](https://github.com/quay/clair) ⭐ 11,053 \| 🐛 59 \| 🌐 Go \| 📅 2026-08-25                                    | 容器镜像漏洞分析与扫描服务。                     |
@@ -75,7 +75,7 @@ PaaS、服务治理、CI/CD、消息与异步任务
 | ------------------------------------------------------------------------------------------------------------------ | ---------------------------------------- |
 | [tsuru/tsuru](https://github.com/tsuru/tsuru) ⭐ 5,307 \| 🐛 18 \| 🌐 Go \| 📅 2026-08-25                           | 成熟的开源 PaaS，适合学习应用平台抽象。                   |
 | [goodrain/rainbond](https://github.com/goodrain/rainbond) ⭐ 6,255 \| 🐛 55 \| 🌐 Go \| 📅 2026-08-28               | 以应用为中心的云原生平台，覆盖交付、运维和微服务治理。              |
-| [harness/harness](https://github.com/harness/harness) ⭐ 38,156 \| 🐛 103 \| 🌐 Go \| 📅 2026-08-28                 | Drone 已并入 Harness 生态后，新的 CI/CD 与开发者平台入口。 |
+| [harness/harness](https://github.com/harness/harness) ⭐ 38,157 \| 🐛 103 \| 🌐 Go \| 📅 2026-08-28                 | Drone 已并入 Harness 生态后，新的 CI/CD 与开发者平台入口。 |
 | [gravitational/teleport](https://github.com/gravitational/teleport) ⭐ 20,857 \| 🐛 3,331 \| 🌐 Go \| 📅 2026-08-28 | 基于零信任模型的远程访问与基础设施入口。                     |
 | [istio/istio](https://github.com/istio/istio) ⭐ 38,365 \| 🐛 515 \| 🌐 Go \| 📅 2026-08-28                         | 服务网格代表项目，覆盖流量治理、安全和可观测性。                 |
 | [uber/jaeger](https://github.com/uber/jaeger) ⭐ 11 \| 🐛 0 \| 📅 2023-07-06                                        | 分布式追踪系统，适合与 OpenTelemetry 一起理解链路追踪。      |
@@ -92,7 +92,7 @@ PaaS、服务治理、CI/CD、消息与异步任务
 
 | 项目                                                                                                               | 简介                                   |
 | ---------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
-| [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) ⭐ 32,429 \| 🐛 8,421 \| 🌐 Go \| 📅 2026-08-26 | 分布式 SQL 数据库，强调强一致与弹性扩展。              |
+| [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) ⭐ 32,429 \| 🐛 8,418 \| 🌐 Go \| 📅 2026-08-26 | 分布式 SQL 数据库，强调强一致与弹性扩展。              |
 | [vitessio/vitess](https://github.com/vitessio/vitess) ⭐ 21,271 \| 🐛 1,092 \| 🌐 Go \| 📅 2026-08-29             | YouTube 开源的 MySQL 水平扩展方案。            |
 | [pingcap/tidb](https://github.com/pingcap/tidb) ⭐ 40,478 \| 🐛 6,833 \| 🌐 Go \| 📅 2026-08-29                   | 兼容 MySQL 协议的分布式 HTAP 数据库。            |
 | [influxdata/influxdb](https://github.com/influxdata/influxdb) ⭐ 31,726 \| 🐛 2,157 \| 🌐 Rust \| 📅 2026-08-28   | 经典的时序数据库项目。                          |
@@ -114,7 +114,7 @@ PaaS、服务治理、CI/CD、消息与异步任务
 | [influxdata/kapacitor](https://github.com/influxdata/kapacitor) ⭐ 2,375 \| 🐛 833 \| 🌐 Go \| 📅 2026-08-10    | InfluxData 的实时计算、告警与监控处理组件。                                       |
 | [sourcegraph/checkup](https://github.com/sourcegraph/checkup) ⭐ 3,458 \| 🐛 29 \| 🌐 Go \| 📅 2026-07-03       | 分布式健康检查工具，适合做站点和服务可用性探测。                                          |
 | [rapidloop/rtop](https://github.com/rapidloop/rtop) ⭐ 2,187 \| 🐛 23 \| 🌐 Go \| 📅 2022-06-06                 | 基于 SSH 的轻量级远程服务器监控工具。                                             |
-| [kubestellar/console](https://github.com/kubestellar/console) ⭐ 129 \| 🐛 20 \| 🌐 TypeScript \| 📅 2026-08-29 | AI 驱动的多集群 Kubernetes 仪表盘，支持实时可观测性和 30+ CNCF 项目集成。CNCF Sandbox 项目。 |
+| [kubestellar/console](https://github.com/kubestellar/console) ⭐ 129 \| 🐛 16 \| 🌐 TypeScript \| 📅 2026-08-29 | AI 驱动的多集群 Kubernetes 仪表盘，支持实时可观测性和 30+ CNCF 项目集成。CNCF Sandbox 项目。 |
 
 ## 网络与安全
 
@@ -145,7 +145,7 @@ Web 框架、服务端组件与实时交互能力
 | [olahol/melody](https://github.com/olahol/melody) ⭐ 4,083 \| 🐛 14 \| 🌐 Go \| 📅 2025-10-28                           | 基于 gorilla/websocket 的轻量级 WebSocket 框架。 |
 | [valyala/fasthttp](https://github.com/valyala/fasthttp) ⭐ 23,456 \| 🐛 85 \| 🌐 Go \| 📅 2026-08-28                    | Go 里非常有代表性的高性能 HTTP 实现。                 |
 | [tus/tusd](https://github.com/tus/tusd) ⭐ 3,861 \| 🐛 90 \| 🌐 Go \| 📅 2026-08-01                                     | 断点续传文件上传服务端实现。                          |
-| [mattermost/mattermost](https://github.com/mattermost/mattermost) ⭐ 38,935 \| 🐛 997 \| 🌐 TypeScript \| 📅 2026-08-29 | 大型 Go Web 应用的代表项目, 适合看真实业务系统的工程组织方式。    |
+| [mattermost/mattermost](https://github.com/mattermost/mattermost) ⭐ 38,936 \| 🐛 997 \| 🌐 TypeScript \| 📅 2026-08-29 | 大型 Go Web 应用的代表项目, 适合看真实业务系统的工程组织方式。    |
 
 ## 数据处理与机器学习
 
@@ -181,7 +181,7 @@ ML、NLP、爬虫与数据处理
 
 | 项目                                                                                                           | 简介                 |
 | ------------------------------------------------------------------------------------------------------------ | ------------------ |
-| [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) ⭐ 51,313 \| 🐛 423 \| 🌐 Go \| 📅 2026-08-28 | 以太坊客户端 geth 的官方实现。 |
+| [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) ⭐ 51,314 \| 🐛 423 \| 🌐 Go \| 📅 2026-08-28 | 以太坊客户端 geth 的官方实现。 |
 | [hyperledger/fabric](https://github.com/hyperledger/fabric) ⭐ 16,706 \| 🐛 205 \| 🌐 Go \| 📅 2026-08-28     | 企业级联盟链平台的代表项目。     |
 
 ## 维护说明
