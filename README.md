@@ -43,14 +43,14 @@ LLM 应用框架、MCP、模型运行时与向量能力
 
 | 项目                                                                                                     | 简介                                                |
 | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------- |
-| [ollama/ollama](https://github.com/ollama/ollama) ⭐ 179,743 \| 🐛 3,844 \| 🌐 Go \| 📅 2026-08-29      | 本地运行、分发和管理大模型的 Go 运行时。                            |
-| [tmc/langchaingo](https://github.com/tmc/langchaingo) ⭐ 9,646 \| 🐛 411 \| 🌐 Go \| 📅 2026-01-11      | Go 版 LLM 应用框架，覆盖 prompt、tool calling、agent 和 RAG。 |
-| [cloudwego/eino](https://github.com/cloudwego/eino) ⭐ 12,874 \| 🐛 149 \| 🌐 Go \| 📅 2026-08-29       | CloudWeGo 出品的 Go AI 应用框架，强调组件化编排和生产落地。            |
-| [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) ⭐ 9,041 \| 🐛 42 \| 🌐 Go \| 📅 2026-08-12     | 用 Go 构建 MCP client 和 server 的实用 SDK。              |
-| [mudler/LocalAI](https://github.com/mudler/LocalAI) ⭐ 48,751 \| 🐛 218 \| 🌐 Go \| 📅 2026-08-29       | OpenAI 兼容的本地推理服务，适合私有化部署。                         |
-| [mudler/LocalAGI](https://github.com/mudler/LocalAGI) ⭐ 1,964 \| 🐛 86 \| 🌐 Go \| 📅 2026-08-25       | 面向本地模型的 Agent 平台，强调工具调用和自治流程。                     |
-| [weaviate/weaviate](https://github.com/weaviate/weaviate) ⭐ 16,759 \| 🐛 692 \| 🌐 Go \| 📅 2026-08-29 | Go 编写的向量数据库，可用于 RAG、检索和 Agent memory。             |
-| [pardnchiu/Agenvoy](https://github.com/pardnchiu/Agenvoy) ⭐ 478 \| 🐛 0 \| 🌐 Go \| 📅 2026-08-28      | Go 编写的 Agent 平台，提供 Py/Js 工具接口、错误记忆与自动修正能力。        |
+| [ollama/ollama](https://github.com/ollama/ollama) ⭐ 179,795 \| 🐛 3,854 \| 🌐 Go \| 📅 2026-08-29      | 本地运行、分发和管理大模型的 Go 运行时。                            |
+| [tmc/langchaingo](https://github.com/tmc/langchaingo) ⭐ 9,647 \| 🐛 411 \| 🌐 Go \| 📅 2026-01-11      | Go 版 LLM 应用框架，覆盖 prompt、tool calling、agent 和 RAG。 |
+| [cloudwego/eino](https://github.com/cloudwego/eino) ⭐ 12,879 \| 🐛 151 \| 🌐 Go \| 📅 2026-08-29       | CloudWeGo 出品的 Go AI 应用框架，强调组件化编排和生产落地。            |
+| [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) ⭐ 9,042 \| 🐛 42 \| 🌐 Go \| 📅 2026-08-12     | 用 Go 构建 MCP client 和 server 的实用 SDK。              |
+| [mudler/LocalAI](https://github.com/mudler/LocalAI) ⭐ 48,773 \| 🐛 174 \| 🌐 Go \| 📅 2026-08-31       | OpenAI 兼容的本地推理服务，适合私有化部署。                         |
+| [mudler/LocalAGI](https://github.com/mudler/LocalAGI) ⭐ 1,963 \| 🐛 70 \| 🌐 Go \| 📅 2026-08-25       | 面向本地模型的 Agent 平台，强调工具调用和自治流程。                     |
+| [weaviate/weaviate](https://github.com/weaviate/weaviate) ⭐ 16,760 \| 🐛 692 \| 🌐 Go \| 📅 2026-08-30 | Go 编写的向量数据库，可用于 RAG、检索和 Agent memory。             |
+| [pardnchiu/Agenvoy](https://github.com/pardnchiu/Agenvoy) ⭐ 478 \| 🐛 0 \| 🌐 Go \| 📅 2026-08-30      | Go 编写的 Agent 平台，提供 Py/Js 工具接口、错误记忆与自动修正能力。        |
 
 ## 云原生与容器
 
@@ -58,14 +58,14 @@ LLM 应用框架、MCP、模型运行时与向量能力
 
 | 项目                                                                                                                         | 简介                                 |
 | -------------------------------------------------------------------------------------------------------------------------- | ---------------------------------- |
-| [moby/moby](https://github.com/moby/moby) ⭐ 72,015 \| 🐛 3,902 \| 🌐 Go \| 📅 2026-08-29                                   | Docker 引擎的上游项目，也是学习容器运行时实现的核心入口。   |
-| [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ⭐ 125,570 \| 🐛 2,994 \| 🌐 Go \| 📅 2026-08-28          | 事实标准级的容器编排平台。                      |
-| [goharbor/harbor](https://github.com/goharbor/harbor) ⭐ 29,254 \| 🐛 870 \| 🌐 Go \| 📅 2026-08-29                         | 企业级 OCI 镜像仓库，带权限、审计和复制能力。          |
-| [rancher/rancher](https://github.com/rancher/rancher) ⭐ 25,882 \| 🐛 3,341 \| 🌐 Go \| 📅 2026-08-29                       | 面向多集群场景的 Kubernetes 管理平台。          |
+| [moby/moby](https://github.com/moby/moby) ⭐ 72,021 \| 🐛 3,903 \| 🌐 Go \| 📅 2026-08-29                                   | Docker 引擎的上游项目，也是学习容器运行时实现的核心入口。   |
+| [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ⭐ 125,584 \| 🐛 2,995 \| 🌐 Go \| 📅 2026-08-30          | 事实标准级的容器编排平台。                      |
+| [goharbor/harbor](https://github.com/goharbor/harbor) ⭐ 29,259 \| 🐛 871 \| 🌐 Go \| 📅 2026-08-29                         | 企业级 OCI 镜像仓库，带权限、审计和复制能力。          |
+| [rancher/rancher](https://github.com/rancher/rancher) ⭐ 25,883 \| 🐛 3,340 \| 🌐 Go \| 📅 2026-08-29                       | 面向多集群场景的 Kubernetes 管理平台。          |
 | [quay/clair](https://github.com/quay/clair) ⭐ 11,054 \| 🐛 59 \| 🌐 Go \| 📅 2026-08-25                                    | 容器镜像漏洞分析与扫描服务。                     |
-| [moby/swarmkit](https://github.com/moby/swarmkit) ⭐ 3,647 \| 🐛 276 \| 🌐 Go \| 📅 2026-08-28                              | Docker Swarm 的核心编排组件，适合学习调度和集群编排。  |
+| [moby/swarmkit](https://github.com/moby/swarmkit) ⭐ 3,648 \| 🐛 276 \| 🌐 Go \| 📅 2026-08-28                              | Docker Swarm 的核心编排组件，适合学习调度和集群编排。  |
 | [AliyunContainerService/pouch](https://github.com/AliyunContainerService/pouch) ⭐ 4,644 \| 🐛 10 \| 🌐 Go \| 📅 2024-08-22 | 阿里开源的容器引擎项目，聚焦更强的隔离与稳定性。           |
-| [hashicorp/nomad](https://github.com/hashicorp/nomad) ⭐ 16,845 \| 🐛 1,638 \| 🌐 Go \| 📅 2026-08-28                       | 轻量级工作负载编排器，适合对比 Kubernetes 的另一条路线。 |
+| [hashicorp/nomad](https://github.com/hashicorp/nomad) ⭐ 16,845 \| 🐛 1,639 \| 🌐 Go \| 📅 2026-08-28                       | 轻量级工作负载编排器，适合对比 Kubernetes 的另一条路线。 |
 
 ## 服务治理与平台工程
 
@@ -73,16 +73,16 @@ PaaS、服务治理、CI/CD、消息与异步任务
 
 | 项目                                                                                                                 | 简介                                       |
 | ------------------------------------------------------------------------------------------------------------------ | ---------------------------------------- |
-| [tsuru/tsuru](https://github.com/tsuru/tsuru) ⭐ 5,307 \| 🐛 19 \| 🌐 Go \| 📅 2026-08-25                           | 成熟的开源 PaaS，适合学习应用平台抽象。                   |
-| [goodrain/rainbond](https://github.com/goodrain/rainbond) ⭐ 6,255 \| 🐛 55 \| 🌐 Go \| 📅 2026-08-29               | 以应用为中心的云原生平台，覆盖交付、运维和微服务治理。              |
-| [harness/harness](https://github.com/harness/harness) ⭐ 38,170 \| 🐛 103 \| 🌐 Go \| 📅 2026-08-28                 | Drone 已并入 Harness 生态后，新的 CI/CD 与开发者平台入口。 |
-| [gravitational/teleport](https://github.com/gravitational/teleport) ⭐ 20,858 \| 🐛 3,332 \| 🌐 Go \| 📅 2026-08-28 | 基于零信任模型的远程访问与基础设施入口。                     |
-| [istio/istio](https://github.com/istio/istio) ⭐ 38,365 \| 🐛 515 \| 🌐 Go \| 📅 2026-08-29                         | 服务网格代表项目，覆盖流量治理、安全和可观测性。                 |
+| [tsuru/tsuru](https://github.com/tsuru/tsuru) ⭐ 5,308 \| 🐛 20 \| 🌐 Go \| 📅 2026-08-30                           | 成熟的开源 PaaS，适合学习应用平台抽象。                   |
+| [goodrain/rainbond](https://github.com/goodrain/rainbond) ⭐ 6,256 \| 🐛 55 \| 🌐 Go \| 📅 2026-08-29               | 以应用为中心的云原生平台，覆盖交付、运维和微服务治理。              |
+| [harness/harness](https://github.com/harness/harness) ⭐ 38,173 \| 🐛 103 \| 🌐 Go \| 📅 2026-08-28                 | Drone 已并入 Harness 生态后，新的 CI/CD 与开发者平台入口。 |
+| [gravitational/teleport](https://github.com/gravitational/teleport) ⭐ 20,863 \| 🐛 3,333 \| 🌐 Go \| 📅 2026-08-28 | 基于零信任模型的远程访问与基础设施入口。                     |
+| [istio/istio](https://github.com/istio/istio) ⭐ 38,367 \| 🐛 515 \| 🌐 Go \| 📅 2026-08-30                         | 服务网格代表项目，覆盖流量治理、安全和可观测性。                 |
 | [uber/jaeger](https://github.com/uber/jaeger) ⭐ 11 \| 🐛 0 \| 📅 2023-07-06                                        | 分布式追踪系统，适合与 OpenTelemetry 一起理解链路追踪。      |
 | [go-kit/kit](https://github.com/go-kit/kit) ⭐ 27,423 \| 🐛 60 \| 🌐 Go \| 📅 2024-07-19                            | Go 微服务开发工具箱，强调可观测性和可测试性。                 |
-| [goadesign/goa](https://github.com/goadesign/goa) ⭐ 6,091 \| 🐛 43 \| 🌐 Go \| 📅 2026-08-29                       | 设计优先的 Go 服务开发框架。                         |
+| [goadesign/goa](https://github.com/goadesign/goa) ⭐ 6,092 \| 🐛 43 \| 🌐 Go \| 📅 2026-08-30                       | 设计优先的 Go 服务开发框架。                         |
 | [TykTechnologies/tyk](https://github.com/TykTechnologies/tyk) ⭐ 10,810 \| 🐛 498 \| 🌐 Go \| 📅 2026-08-28         | 成熟的开源 API Gateway。                       |
-| [micro/go-micro](https://github.com/micro/go-micro) ⭐ 23,047 \| 🐛 8 \| 🌐 Go \| 📅 2026-08-28                     | Go 微服务框架，适合研究服务抽象与插件化扩展。                 |
+| [micro/go-micro](https://github.com/micro/go-micro) ⭐ 23,048 \| 🐛 6 \| 🌐 Go \| 📅 2026-08-30                     | Go 微服务框架，适合研究服务抽象与插件化扩展。                 |
 | [nsqio/nsq](https://github.com/nsqio/nsq) ⭐ 25,777 \| 🐛 77 \| 🌐 Go \| 📅 2026-08-11                              | 经典的实时分布式消息平台。                            |
 | [RichardKnop/machinery](https://github.com/RichardKnop/machinery) ⭐ 7,972 \| 🐛 248 \| 🌐 Go \| 📅 2025-11-15      | Go 异步任务队列，适合替代 Celery 的思路参考。             |
 
@@ -92,12 +92,12 @@ PaaS、服务治理、CI/CD、消息与异步任务
 
 | 项目                                                                                                               | 简介                                   |
 | ---------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
-| [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) ⭐ 32,432 \| 🐛 8,451 \| 🌐 Go \| 📅 2026-08-26 | 分布式 SQL 数据库，强调强一致与弹性扩展。              |
-| [vitessio/vitess](https://github.com/vitessio/vitess) ⭐ 21,278 \| 🐛 1,095 \| 🌐 Go \| 📅 2026-08-29             | YouTube 开源的 MySQL 水平扩展方案。            |
-| [pingcap/tidb](https://github.com/pingcap/tidb) ⭐ 40,477 \| 🐛 6,833 \| 🌐 Go \| 📅 2026-08-30                   | 兼容 MySQL 协议的分布式 HTAP 数据库。            |
-| [influxdata/influxdb](https://github.com/influxdata/influxdb) ⭐ 31,730 \| 🐛 2,157 \| 🌐 Rust \| 📅 2026-08-28   | 经典的时序数据库项目。                          |
-| [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph) ⭐ 21,782 \| 🐛 97 \| 🌐 Go \| 📅 2026-08-29              | 面向关联查询场景的分布式图数据库。                    |
-| [ipfs/kubo](https://github.com/ipfs/kubo) ⭐ 17,117 \| 🐛 874 \| 🌐 Go \| 📅 2026-08-27                           | IPFS 的 Go 实现。                        |
+| [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) ⭐ 32,433 \| 🐛 8,468 \| 🌐 Go \| 📅 2026-08-26 | 分布式 SQL 数据库，强调强一致与弹性扩展。              |
+| [vitessio/vitess](https://github.com/vitessio/vitess) ⭐ 21,281 \| 🐛 1,091 \| 🌐 Go \| 📅 2026-08-29             | YouTube 开源的 MySQL 水平扩展方案。            |
+| [pingcap/tidb](https://github.com/pingcap/tidb) ⭐ 40,478 \| 🐛 6,837 \| 🌐 Go \| 📅 2026-08-31                   | 兼容 MySQL 协议的分布式 HTAP 数据库。            |
+| [influxdata/influxdb](https://github.com/influxdata/influxdb) ⭐ 31,732 \| 🐛 2,157 \| 🌐 Rust \| 📅 2026-08-28   | 经典的时序数据库项目。                          |
+| [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph) ⭐ 21,786 \| 🐛 97 \| 🌐 Go \| 📅 2026-08-30              | 面向关联查询场景的分布式图数据库。                    |
+| [ipfs/kubo](https://github.com/ipfs/kubo) ⭐ 17,118 \| 🐛 874 \| 🌐 Go \| 📅 2026-08-30                           | IPFS 的 Go 实现。                        |
 | [chrislusf/seaweedfs](https://github.com/chrislusf/seaweedfs) ⭐ 37 \| 🐛 1 \| 🌐 Go \| 📅 2026-07-21             | 高性能分布式文件系统，覆盖对象、文件和块存储。              |
 | [XiaoMi/Gaea](https://github.com/XiaoMi/Gaea) ⭐ 2,765 \| 🐛 67 \| 🌐 Go \| 📅 2026-03-18                         | 小米开源的 MySQL 中间件，聚焦分库分表与代理能力。         |
 | [mediocregopher/radix](https://github.com/mediocregopher/radix) ⭐ 637 \| 🐛 6 \| 🌐 Go \| 📅 2026-05-13          | 设计简洁的 Go Redis 客户端。                  |
@@ -109,12 +109,12 @@ PaaS、服务治理、CI/CD、消息与异步任务
 
 | 项目                                                                                                             | 简介                                                                |
 | -------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
-| [grafana/grafana](https://github.com/grafana/grafana) ⭐ 76,486 \| 🐛 3,323 \| 🌐 TypeScript \| 📅 2026-08-29   | 最常见的可观测性可视化平台之一。                                                  |
-| [prometheus/prometheus](https://github.com/prometheus/prometheus) ⭐ 65,888 \| 🐛 881 \| 🌐 Go \| 📅 2026-08-29 | 事实标准级的监控与时序指标系统。                                                  |
+| [grafana/grafana](https://github.com/grafana/grafana) ⭐ 76,519 \| 🐛 3,322 \| 🌐 TypeScript \| 📅 2026-08-30   | 最常见的可观测性可视化平台之一。                                                  |
+| [prometheus/prometheus](https://github.com/prometheus/prometheus) ⭐ 65,910 \| 🐛 884 \| 🌐 Go \| 📅 2026-08-30 | 事实标准级的监控与时序指标系统。                                                  |
 | [influxdata/kapacitor](https://github.com/influxdata/kapacitor) ⭐ 2,375 \| 🐛 833 \| 🌐 Go \| 📅 2026-08-10    | InfluxData 的实时计算、告警与监控处理组件。                                       |
 | [sourcegraph/checkup](https://github.com/sourcegraph/checkup) ⭐ 3,458 \| 🐛 29 \| 🌐 Go \| 📅 2026-07-03       | 分布式健康检查工具，适合做站点和服务可用性探测。                                          |
 | [rapidloop/rtop](https://github.com/rapidloop/rtop) ⭐ 2,187 \| 🐛 23 \| 🌐 Go \| 📅 2022-06-06                 | 基于 SSH 的轻量级远程服务器监控工具。                                             |
-| [kubestellar/console](https://github.com/kubestellar/console) ⭐ 131 \| 🐛 11 \| 🌐 TypeScript \| 📅 2026-08-29 | AI 驱动的多集群 Kubernetes 仪表盘，支持实时可观测性和 30+ CNCF 项目集成。CNCF Sandbox 项目。 |
+| [kubestellar/console](https://github.com/kubestellar/console) ⭐ 130 \| 🐛 8 \| 🌐 TypeScript \| 📅 2026-08-30  | AI 驱动的多集群 Kubernetes 仪表盘，支持实时可观测性和 30+ CNCF 项目集成。CNCF Sandbox 项目。 |
 
 ## 网络与安全
 
@@ -122,10 +122,10 @@ PaaS、服务治理、CI/CD、消息与异步任务
 
 | 项目                                                                                                         | 简介                         |
 | ---------------------------------------------------------------------------------------------------------- | -------------------------- |
-| [traefik/traefik](https://github.com/traefik/traefik) ⭐ 64,656 \| 🐛 913 \| 🌐 Go \| 📅 2026-08-28         | 云原生场景里广泛使用的反向代理和负载均衡器。     |
+| [traefik/traefik](https://github.com/traefik/traefik) ⭐ 64,669 \| 🐛 914 \| 🌐 Go \| 📅 2026-08-30         | 云原生场景里广泛使用的反向代理和负载均衡器。     |
 | [google/seesaw](https://github.com/google/seesaw) ⭐ 5,676 \| 🐛 16 \| 🌐 Go \| 📅 2026-07-11               | Google 开源的 Linux 负载均衡系统。   |
 | [jpillora/go-tcp-proxy](https://github.com/jpillora/go-tcp-proxy) ⭐ 798 \| 🐛 14 \| 🌐 Go \| 📅 2024-01-08 | 实现简单、非常适合学习 TCP 代理原理。      |
-| [probelabs/goreplay](https://github.com/probelabs/goreplay) ⭐ 19,319 \| 🐛 341 \| 🌐 Go \| 📅 2026-01-27   | 把线上 HTTP 流量复制回测试环境的经典工具。   |
+| [probelabs/goreplay](https://github.com/probelabs/goreplay) ⭐ 19,320 \| 🐛 341 \| 🌐 Go \| 📅 2026-01-27   | 把线上 HTTP 流量复制回测试环境的经典工具。   |
 | [hidu/pproxy](https://github.com/hidu/pproxy) ⭐ 277 \| 🐛 7 \| 🌐 Go \| 📅 2024-12-20                      | HTTP 抓包代理和调试工具。            |
 | [getlantern/lantern](https://github.com/getlantern/lantern) ⭐ 15,918 \| 🐛 40 \| 🌐 Dart \| 📅 2026-08-28  | 长期维护的网络代理项目，可参考跨平台网络客户端设计。 |
 
@@ -135,17 +135,17 @@ Web 框架、服务端组件与实时交互能力
 
 | 项目                                                                                                                       | 简介                                      |
 | ------------------------------------------------------------------------------------------------------------------------ | --------------------------------------- |
-| [gin-gonic/gin](https://github.com/gin-gonic/gin) ⭐ 89,139 \| 🐛 766 \| 🌐 Go \| 📅 2026-08-15                           | Go Web 框架里最常见的高性能选择。                    |
-| [labstack/echo](https://github.com/labstack/echo) ⭐ 32,674 \| 🐛 28 \| 🌐 Go \| 📅 2026-08-24                            | API 开发体验成熟的高性能 Web 框架。                  |
-| [beego/beego](https://github.com/beego/beego) ⭐ 32,417 \| 🐛 21 \| 🌐 Go \| 📅 2026-08-26                                | 老牌但仍在维护的全功能 Go Web 框架。                  |
+| [gin-gonic/gin](https://github.com/gin-gonic/gin) ⭐ 89,146 \| 🐛 766 \| 🌐 Go \| 📅 2026-08-15                           | Go Web 框架里最常见的高性能选择。                    |
+| [labstack/echo](https://github.com/labstack/echo) ⭐ 32,669 \| 🐛 30 \| 🌐 Go \| 📅 2026-08-24                            | API 开发体验成熟的高性能 Web 框架。                  |
+| [beego/beego](https://github.com/beego/beego) ⭐ 32,418 \| 🐛 21 \| 🌐 Go \| 📅 2026-08-26                                | 老牌但仍在维护的全功能 Go Web 框架。                  |
 | [revel/revel](https://github.com/revel/revel) ⭐ 13,217 \| 🐛 94 \| 🌐 Go \| 📅 2023-10-28                                | 偏完整栈思路的 Go Web 框架。                      |
-| [kataras/iris](https://github.com/kataras/iris) ⭐ 25,561 \| 🐛 149 \| 🌐 Go \| 📅 2026-07-27                             | 强调性能和完整生态的 Go Web 框架。                   |
+| [kataras/iris](https://github.com/kataras/iris) ⭐ 25,562 \| 🐛 149 \| 🌐 Go \| 📅 2026-07-27                             | 强调性能和完整生态的 Go Web 框架。                   |
 | [go-macaron/macaron](https://github.com/go-macaron/macaron) ⭐ 3,545 \| 🐛 12 \| 🌐 Go \| 📅 2026-02-16                   | 模块化风格明显的 Go Web 框架。                     |
 | [andeya/faygo](https://github.com/andeya/faygo) ⭐ 1,591 \| 🐛 9 \| 🌐 Go \| 📅 2023-02-25                                | 面向 API 场景的 Go Web 框架，带参数绑定和文档生成。        |
 | [olahol/melody](https://github.com/olahol/melody) ⭐ 4,083 \| 🐛 14 \| 🌐 Go \| 📅 2025-10-28                             | 基于 gorilla/websocket 的轻量级 WebSocket 框架。 |
-| [valyala/fasthttp](https://github.com/valyala/fasthttp) ⭐ 23,456 \| 🐛 84 \| 🌐 Go \| 📅 2026-08-29                      | Go 里非常有代表性的高性能 HTTP 实现。                 |
+| [valyala/fasthttp](https://github.com/valyala/fasthttp) ⭐ 23,457 \| 🐛 85 \| 🌐 Go \| 📅 2026-08-30                      | Go 里非常有代表性的高性能 HTTP 实现。                 |
 | [tus/tusd](https://github.com/tus/tusd) ⭐ 3,861 \| 🐛 90 \| 🌐 Go \| 📅 2026-08-01                                       | 断点续传文件上传服务端实现。                          |
-| [mattermost/mattermost](https://github.com/mattermost/mattermost) ⭐ 38,939 \| 🐛 1,000 \| 🌐 TypeScript \| 📅 2026-08-29 | 大型 Go Web 应用的代表项目, 适合看真实业务系统的工程组织方式。    |
+| [mattermost/mattermost](https://github.com/mattermost/mattermost) ⭐ 38,942 \| 🐛 1,000 \| 🌐 TypeScript \| 📅 2026-08-30 | 大型 Go Web 应用的代表项目, 适合看真实业务系统的工程组织方式。    |
 
 ## 数据处理与机器学习
 
@@ -166,10 +166,10 @@ ML、NLP、爬虫与数据处理
 
 | 项目                                                                                                                       | 简介                    |
 | ------------------------------------------------------------------------------------------------------------------------ | --------------------- |
-| [gohugoio/hugo](https://github.com/gohugoio/hugo) ⭐ 89,623 \| 🐛 244 \| 🌐 Go \| 📅 2026-08-29                           | 最有代表性的 Go 静态站点生成器。    |
-| [grpc/grpc-go](https://github.com/grpc/grpc-go) ⭐ 23,042 \| 🐛 131 \| 🌐 Go \| 📅 2026-08-27                             | gRPC 的 Go 官方实现。       |
+| [gohugoio/hugo](https://github.com/gohugoio/hugo) ⭐ 89,637 \| 🐛 246 \| 🌐 Go \| 📅 2026-08-30                           | 最有代表性的 Go 静态站点生成器。    |
+| [grpc/grpc-go](https://github.com/grpc/grpc-go) ⭐ 23,041 \| 🐛 133 \| 🌐 Go \| 📅 2026-08-27                             | gRPC 的 Go 官方实现。       |
 | [rakyll/hey](https://github.com/rakyll/hey) ⭐ 20,246 \| 🐛 189 \| 🌐 Go \| 📅 2026-01-10                                 | 轻量级压力测试工具。            |
-| [visualfc/liteide](https://github.com/visualfc/liteide) ⭐ 7,767 \| 🐛 413 \| 🌐 C++ \| 📅 2026-08-15                     | 跨平台的 Go IDE。          |
+| [visualfc/liteide](https://github.com/visualfc/liteide) ⭐ 7,766 \| 🐛 414 \| 🌐 C++ \| 📅 2026-08-30                     | 跨平台的 Go IDE。          |
 | [mailslurper/mailslurper](https://github.com/mailslurper/mailslurper) ⭐ 1,511 \| 🐛 66 \| 🌐 JavaScript \| 📅 2025-12-05 | 本地开发非常实用的测试 SMTP 服务器。 |
 | [gizak/termui](https://github.com/gizak/termui) ⭐ 13,583 \| 🐛 106 \| 🌐 Go \| 📅 2025-07-10                             | 在终端里构建可视化面板的 Go UI 库。 |
 | [golang/mobile](https://github.com/golang/mobile) ⭐ 6,211 \| 🐛 37 \| 🌐 Go \| 📅 2026-08-21                             | Go 官方维护的移动端开发工具链。     |
@@ -181,8 +181,8 @@ ML、NLP、爬虫与数据处理
 
 | 项目                                                                                                           | 简介                 |
 | ------------------------------------------------------------------------------------------------------------ | ------------------ |
-| [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) ⭐ 51,314 \| 🐛 427 \| 🌐 Go \| 📅 2026-08-28 | 以太坊客户端 geth 的官方实现。 |
-| [hyperledger/fabric](https://github.com/hyperledger/fabric) ⭐ 16,708 \| 🐛 205 \| 🌐 Go \| 📅 2026-08-28     | 企业级联盟链平台的代表项目。     |
+| [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) ⭐ 51,321 \| 🐛 430 \| 🌐 Go \| 📅 2026-08-28 | 以太坊客户端 geth 的官方实现。 |
+| [hyperledger/fabric](https://github.com/hyperledger/fabric) ⭐ 16,709 \| 🐛 205 \| 🌐 Go \| 📅 2026-08-28     | 企业级联盟链平台的代表项目。     |
 
 ## 维护说明
 
@@ -190,4 +190,4 @@ ML、NLP、爬虫与数据处理
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
